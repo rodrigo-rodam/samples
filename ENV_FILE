@@ -1,0 +1,22 @@
+AZURE_OPENAI_ENDPOINT_CANADAEAST=https://<your-custom-endpoint>.openai.azure.com/
+AZURE_OPENAI_KEY_CANADAEAST=
+
+AZURE_OPENAI_ENDPOINT_EASTUS=https://<your-custom-endpoint>.openai.azure.com/
+AZURE_OPENAI_KEY_EASTUS=
+
+AZURE_OPENAI_ENDPOINT_NORTHCENTRALUS=https://<your-custom-endpoint>.openai.azure.com/
+AZURE_OPENAI_KEY_NORTHCENTRALUS=
+WHISPER_VERSION=2024-06-01
+
+AZURE_OPENAI_ENDPOINT_EASTUS2=https://<your-custom-endpoint>.cognitiveservices.azure.com/
+AZURE_OPENAI_KEY_EASTUS2=
+
+AZURE_SEARCH_SERVICE_ENDPOINT=https://<your-search-service-name>.search.windows.net
+AZURE_SEARCH_API_KEY=
+
+SPEECH_KEY = ""
+SPEECH_SERVICE_REGION = "eastus"
+
+CUSTOM_SPEECH_KEY = ""
+CUSTOM_SPEECH_ENDPOINT_ID = ""
+SPEECH_SYNTESIS_VOICE_NAME = ""
